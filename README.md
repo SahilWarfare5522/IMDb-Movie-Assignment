@@ -3,7 +3,8 @@
 
 
 # IMDb Movie Data analysis Project
-# 🧠 Powered by Artificial Intelligence 
+
+#### 🧠 Powered by Artificial Intelligence 
 This project integrates the capabilities of AI to enhance development, streamline tasks, and deliver data-driven insights. AI support enabled efficient execution and added a layer of innovation to every stage of the project lifecycle. 
 
 Introduction
