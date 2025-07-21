@@ -67,4 +67,5 @@ Here are some tips for the assignment:
 
 10.	Create a data visualization that shows each country and the number of top-rated movies produced in it. Find the country that produced the most top-rated movies.
 
-![Image Alt](![Image](Evaluation Rubric.png))
+<img width="1337" height="851" alt="Evaluation Rubric" src="https://github.com/user-attachments/assets/b4ba1810-27b1-4c3e-8fe7-2d0897ae6a09" />
+
