@@ -3,6 +3,8 @@
 
 
 # IMDb Movie Data analysis Project
+# 🧠 Powered by Artificial Intelligence 
+This project integrates the capabilities of AI to enhance development, streamline tasks, and deliver data-driven insights. AI support enabled efficient execution and added a layer of innovation to every stage of the project lifecycle. 
 
 Introduction
 By now, you have gone through several modules that gave you knowledge and experience with Python fundamentals and two popular Python libraries for data science, NumPy and Pandas. In this assignment, you will put everything you have learned together to create your own Jupyter Notebook that performs data analysis on a real data set and incorporates best practices, such as code commenting and Markdown cell creation.
